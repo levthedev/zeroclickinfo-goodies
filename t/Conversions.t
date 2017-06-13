@@ -2118,6 +2118,16 @@ ddg_goodie_test(
 			physical_quantity => 'pressure'
 		})
 	 ),
+	'speed conversion' => test_zci(
+		'', structured_answer => make_answer_with_base({
+			physical_quantity => 'speed'
+		})
+	 ),
+	'speed calculator' => test_zci(
+		'', structured_answer => make_answer_with_base({
+			physical_quantity => 'speed'
+		})
+	 ),
 	'temperature conversion' => test_zci(
 		'', structured_answer => make_answer_with_base({
 			physical_quantity => 'temperature'

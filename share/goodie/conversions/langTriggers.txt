@@ -41,6 +41,9 @@ pressure calculator
 temperature conversion
 temperature converter
 temperature calculator
+speed conversion
+speed converter
+speed calculator
 volume conversion
 volume converter
 volume calculator
